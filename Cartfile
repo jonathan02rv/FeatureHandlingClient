@@ -1,0 +1,6 @@
+
+# External dependencies
+github "launchdarkly/ios-client" ~> 5.4
+
+# Internal dependencies
+git "file:///Users/jhonatahan.rivera/Documents/Proys/sdk-ios-feature-handling" "develop"

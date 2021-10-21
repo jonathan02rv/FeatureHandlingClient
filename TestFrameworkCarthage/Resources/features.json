@@ -1,0 +1,15 @@
+[
+    {
+        "featName":"feat_component_one",
+        "featStatus":"disable"
+    },
+    {
+        "featName":"feat_component_two",
+        "featStatus":"enable"
+    },
+    {
+        "featName":"feat_main",
+        "featStatus":"hide"
+    }
+  
+]
